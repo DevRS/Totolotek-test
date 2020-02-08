@@ -3,7 +3,7 @@
 #include <time.h>
 #include <stdio.h>
 
-
+// nic ciekawego
 using namespace std;
 
 int liczba;
